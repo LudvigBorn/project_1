@@ -1,0 +1,9 @@
+.show-selection{
+  background-color: rgba(41, 102, 255, 0.1);
+  pointer-events: none;
+  transition: .2s all;
+}
+
+.show-selection:hover{
+  background-color: rgba(41, 102, 255, 0.1);
+}
